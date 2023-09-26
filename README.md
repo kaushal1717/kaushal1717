@@ -26,5 +26,8 @@
 
 <div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal1717&" alt="kaushal1717"/></div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal1717&show_icons=true&locale=en&layout=compact" alt="kaushal1717" style= "padding:100px"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal1717&show_icons=true&locale=en&layout=compact" alt="kaushal1717" style= "padding:100px"/></p><be>
 
+<h3 align= "left">Badges:</h3>
+
+[![An image of @kaushal1717's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushal1717)](https://holopin.io/@kaushal1717)
