@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kpadaliya1717@gmail.com**
 
-- ⚡ Fun fact **I am chill person**
+- ⚡ Fun fact **I am very chill person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
